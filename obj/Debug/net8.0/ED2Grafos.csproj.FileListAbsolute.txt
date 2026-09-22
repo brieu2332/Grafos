@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\bin\Debug\net8.0\ED2Grafos.exe
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\bin\Debug\net8.0\ED2Grafos.deps.json
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\bin\Debug\net8.0\ED2Grafos.runtimeconfig.json
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\bin\Debug\net8.0\ED2Grafos.dll
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\bin\Debug\net8.0\ED2Grafos.pdb
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ED2Grafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ED2Grafos.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ED2Grafos.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ED2Grafos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ED2Grafos.dll
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\refint\ED2Grafos.dll
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ED2Grafos.pdb
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ED2Grafos.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ref\ED2Grafos.dll
