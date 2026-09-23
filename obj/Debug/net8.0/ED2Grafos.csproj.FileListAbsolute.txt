@@ -12,3 +12,4 @@ C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\refint\ED2Grafos.d
 C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ED2Grafos.pdb
 C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ED2Grafos.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ref\ED2Grafos.dll
+C:\Users\gabri\OneDrive\codigos\C#\ED2Grafos\obj\Debug\net8.0\ED2Grafos.sourcelink.json

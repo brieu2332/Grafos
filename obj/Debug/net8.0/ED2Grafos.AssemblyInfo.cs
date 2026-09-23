@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ED2Grafos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87594f7df34a655f3ba07789b3d339bfce0e17c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ED2Grafos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ED2Grafos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
